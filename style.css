@@ -1,5 +1,47 @@
-body {
+/* body {
   width: 100%;
   height: 100%;
   margin: 0;
+} */
+
+h1 {
+  text-align: center;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#featured-property > p {
+  width: 800px;
+  margin: 20px auto;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  text-align: center;
+  background: #808080;
+  padding: 10px;
+}
+
+#details {
+  text-align: center;
+  width: 100%;
+  background: #808080;
+  bottom: 0;
+  left: 0;
+  height: 12rem;
+}
+
+#details div {
+  float: left;
+  width: 25%;
+  color: #000;
+}
+
+#details div a {
+  background: #808080;
 }
